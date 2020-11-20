@@ -1,0 +1,2 @@
+##
+main6_13_simToVerifyExp.m re-runs the simualtion after the dimensions and other parameters are scaled to those valid in the experimental setup at Smart Mobility Lab, KTH (https://www.kth.se/dcs/research/control-of-transport/smart-mobility-lab/smart-mobility-lab-1.441539).
